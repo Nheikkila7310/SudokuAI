@@ -9,9 +9,9 @@ Run Command:
 	python sudoku.py <input file name>
 
 
-Smart Backtracking Algorithm (MRV)
+Smart Backtracking Algorithm
 ----------------------------------
 
 Run Command:
 
-	python sudoku_MRV.py <input file name>
+	python sudoku_smart.py <input file name>
